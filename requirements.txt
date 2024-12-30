@@ -1,0 +1,8 @@
+beautifulsoup4>=4.9.3
+pandas>=1.2.0
+selenium>=4.0.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+requests>=2.25.0
+typing>=3.7.4
+logging>=0.5.1.2
